@@ -1,5 +1,5 @@
 import sqlite3
-
+#connection db
 db=sqlite3.connect('students')
 pointer=db.cursor()
 
@@ -16,3 +16,4 @@ print(single_data)
 pointer.close()
 db.close()
 
+print('new feature added...')

@@ -1,0 +1,7 @@
+2026-11-20 20:23:34,118---DEBUG---I am enter into application--14
+2026-11-20 20:23:34,121---INFO---you are login successfully--15
+2026-11-20 20:23:34,122---WARNING---there are 2items left--16
+2026-11-20 20:23:34,122---ERROR---you ticket is not comfirmed due to payment failure--17
+2026-11-20 20:23:34,122---CRITICAL---too much traffic system crashed....--18
+2026-11-20 20:23:34,122---ERROR---yi code break ayindii--19
+NoneType: None
